@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "helm charts"
+
+authors:
+  - family-names: Vancauwenberghe
+    given-names: Laure
+    orcid: "..."
+    affiliation: "SDSC-ORDES"
+  - family-names: Matthey-Doret
+    given-names: Cyril
+    orcid: "..."
+    affiliation: "SDSC-ORDES"
+date-released: 2025-21-28
+version: "0.0.1"
+doi: ""
+url: https://github.com/sdsc-ordes/helm-charts
+repository-code: https://github.com/sdsc-ordes/helm-charts
+keywords: []
+license: apache2
