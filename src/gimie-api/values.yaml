@@ -1,0 +1,7 @@
+image:
+  repository: "ghcr.io/sdsc-ordes/gimie-api"
+  tag: "latest"
+
+secrets:
+  github: <your-github-token>
+  gitlab: <your-gitlab-token>
