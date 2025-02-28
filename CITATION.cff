@@ -5,16 +5,16 @@ title: "helm charts"
 authors:
   - family-names: Vancauwenberghe
     given-names: Laure
-    orcid: "..."
+    orcid: https://orcid.org/0009-0000-0850-0016
     affiliation: "SDSC-ORDES"
   - family-names: Matthey-Doret
     given-names: Cyril
-    orcid: "..."
+    orcid: https://orcid.org/0000-0002-1126-1535
     affiliation: "SDSC-ORDES"
-date-released: 2025-21-28
+date-released: 2025-02-28
 version: "0.0.1"
 doi: ""
 url: https://github.com/sdsc-ordes/helm-charts
 repository-code: https://github.com/sdsc-ordes/helm-charts
-keywords: []
+keywords: ['helm', 'kubernetes', 'manifests']
 license: apache2
