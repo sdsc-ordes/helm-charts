@@ -8,10 +8,12 @@
 <p align="center">
 </p>
 <p align="center">
+  <a href="https://github.com/sdsc-ordes/helm-charts/releases">
+    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/:user/:repo/total">
+  </a>
   <a href="https://sdsc-ordes.github.io/helm-charts">
     <img alt="github pages" src="https://img.shields.io/website?url=https%3A%2F%2Fsdsc-ordes.github.io%2Fhelm-charts">
   </a>
-  <a href="https://github."
   <a href="http://www.apache.org/licenses/LICENSE-2.0.html">
     <img src="https://img.shields.io/badge/License-Apache2.0-blue.svg?" alt="License label" />
   </a>
