@@ -1,0 +1,34 @@
+apiVersion: v1
+entries:
+  gimie-api:
+  - apiVersion: v1
+    created: "2025-02-28T11:08:01.104793141Z"
+    description: Helm chart for using Gimie as a REST API.
+    digest: 614365d79d911b9e4e574f206af0cd0771c0adcab6baa0221fb759174817750b
+    home: https://github.com/sdsc-ordes/gimieAPI
+    icon: https://raw.githubusercontent.com/sdsc-ordes/gimie/main/docs/logo.svg
+    keywords:
+    - gimie
+    name: gimie-api
+    sources:
+    - https://github.com/sdsc-ordes/gimie
+    type: application
+    urls:
+    - https://github.com/sdsc-ordes/helm-charts/releases/download/gimie-api-0.0.1/gimie-api-0.0.1.tgz
+    version: 0.0.1
+  shacl-api:
+  - apiVersion: v1
+    created: "2025-02-28T11:08:01.206978096Z"
+    description: Helm chart for the shacl-api web service based on the TopBraid SHACL
+      validator.
+    digest: 5d4a8863f413dd3b7f6300a8674209a089c9f3eddeb6a74b9f3d22fa6854a3bd
+    home: https://github.com/sdsc-ordes/shacl-api
+    keywords:
+    - rdf
+    - validation
+    - shacl
+    name: shacl-api
+    urls:
+    - https://github.com/sdsc-ordes/helm-charts/releases/download/shacl-api-0.0.2/shacl-api-0.0.2.tgz
+    version: 0.0.2
+generated: "2025-02-28T11:08:01.206983646Z"
