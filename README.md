@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sdsc-ordes/helm-charts/releases">
-    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/:user/:repo/total">
+    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/sdsc-ordes/helm-charts/total">
   </a>
   <a href="https://sdsc-ordes.github.io/helm-charts">
     <img alt="github pages" src="https://img.shields.io/website?url=https%3A%2F%2Fsdsc-ordes.github.io%2Fhelm-charts">
