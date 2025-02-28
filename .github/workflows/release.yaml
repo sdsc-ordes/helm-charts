@@ -2,9 +2,8 @@ name: Release Helm Charts
 
 on:
   push:
-    tags:
-      # This is used to trigger the release build.
-      - "v*"
+    branches:
+      - main
 
 jobs:
   charts:
