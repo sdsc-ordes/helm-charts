@@ -11,9 +11,6 @@
   <a href="https://github.com/sdsc-ordes/helm-charts/releases/latest">
     <img src="https://img.shields.io/github/release/sdsc-ordes/helm-charts.svg?label=release" alt="Current Release" />
   </a>
-  <a href="https://github.com/sdsc-ordes/ helm-charts/actions/workflows/main-and-pr.yaml">
-    <img src="https://img.shields.io/github/actions/workflow/status/sdsc-ordes/helm-charts/main-and-pr.yaml?label=ci" alt="Pipeline Status" />
-  </a>
   <a href="http://www.apache.org/licenses/LICENSE-2.0.html">
     <img src="https://img.shields.io/badge/License-Apache2.0-blue.svg?" alt="License label" />
   </a>
